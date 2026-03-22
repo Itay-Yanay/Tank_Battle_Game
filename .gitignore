@@ -1,0 +1,14 @@
+# School-specific submission files
+*.submit
+.submit
+.submitUser
+
+# Eclipse metadata
+.settings/
+.metadata/
+.classpath
+.project
+
+# Compiled Java files
+bin/
+*.class
